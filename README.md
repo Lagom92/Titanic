@@ -7,9 +7,17 @@ Predict survival on the Titanic and get familiar with ML basics
 
 - input
 
+- output
+
 - data analysis
 
 - feature_engineering
+
+<br/>
+
+### file
+
+- model.ipynb
 
 
 <br>
