@@ -9,6 +9,9 @@ Predict survival on the Titanic and get familiar with ML basics
 
 - data analysis
 
+- feature_engineering
+
+
 <br>
 <br>
 
